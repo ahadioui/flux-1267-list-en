@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ISIL (Da’esh) and Al-Qaida Sanctions List (1267): List Updates</title>
+    <link>https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list</link>
+    <description>Status of the ISIL (Da’esh) and Al-Qaida Sanctions List maintained by the Security Council Committee pursuant to resolutions 1267 (1999), 1989 (2011) and 2253 (2015). One item is added each time the list is updated.</description>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Nov 2026 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ahadioui.github.io/flux-1718/flux-1267-list-en.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Sanctions List updated on 20 November 2026: 245 individuals, 88 entities</title>
+      <link>https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list</link>
+      <guid isPermaLink="false">1267-list-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 +0000</pubDate>
+      <description>The ISIL (Da’esh) and Al-Qaida Sanctions List now contains 245 individuals and 88 entities, and was last updated on 20 November 2026. It supersedes all previous versions. Under resolution 2734 (2024), the listed persons and entities are subject to an assets freeze, a travel ban and an arms embargo. Full list (XML): https://scsanctions.un.org/xml/en/al-qaida | List (HTML): https://scsanctions.un.org/en/?keywords=al-qaida | Narrative summaries of reasons for listing: https://main.un.org/securitycouncil/en/sanctions/1267/aq_sanctions_list/summaries</description>
+    </item>
+
+  </channel>
+</rss>
